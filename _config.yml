@@ -1,36 +1,57 @@
 # Site wide configuration
 
-title: VIVO-ISF Data Standard
-description: "Developing a data standard for the representation and exchange of
-research related data. See the following link for more detail: https://github.com/vivo-isf/vivo-isf-data-standard"
-logo: # 120x120 px default image used for Twitter summary card
-teaser: # 400x250 px default teaser image used in image archive grid
-locale:
-url: http://www.vivo-isf.org
+title:            Site Title
+locale:           en_US
+url:              http://localhost:4000
+
 
 # Jekyll configuration
 
-sass:
-    sass_dir: _sass
-    style: compressed
-permalink: /:categories/:title/
-markdown: kramdown
+permalink:   /:categories/:title/
+markdown:    kramdown
 highlighter: pygments
+sass:
+  sass_dir: _sass
+  style: compressed
 gems:
   - jekyll-sitemap
+
+kramdown:
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  use_coderay: false
 
 
 # Site owner
 owner:
-  name:
-  email:
-  twitter:
+  name: Your Name
+  avatar: bio-photo.jpg
+  bio: "Describe your self."
+  email: 
+  disqus-shortname: 
+  twitter: #username
+  facebook: #username
   google:
+    plus: #username
+    analytics: 
+    verify: 
     ad-client: 
     ad-slot: 
-  bio: 
-  avatar: bio-photo.jpg # 160x160 px image for author byline
-disqus-shortname: vivo-isf
+  bing-verify: 
+  github: #username
+  stackoverflow: #http://stackoverflow.com/users/123456/username
+  linkedin: #username
+  instagram: #username
+  lastfm: #username
+  tumblr: #username
+  pinterest: #username
+  foursquare: #username
+  steam: #username
+  dribbble: #username
+  youtube: #username
+  soundcloud: #username
 
-
-exclude: ["lib", "config.rb", ".sass-cache", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "*.sublime-project", "*.sublime-workspace", "Gemfile", "Gemfile.lock", "README.md", "LICENSE", "node_modules", "Gruntfile.js", "package.json"]
+include: [".htaccess"]
+exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules", "Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
