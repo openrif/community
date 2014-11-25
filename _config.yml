@@ -1,6 +1,6 @@
 # Site wide configuration
 
-title:            Site Title
+title:            VIVO-ISF Data Standard
 locale:           en_US
 url:              http://localhost:4000
 
@@ -30,7 +30,7 @@ owner:
   avatar: bio-photo.jpg
   bio: "Describe your self."
   email: 
-  disqus-shortname: 
+  disqus-shortname: vivo-isf
   twitter: #username
   facebook: #username
   google:
