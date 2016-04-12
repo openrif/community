@@ -16,4 +16,4 @@ Please feel free to contribute to the wiki. There are various VIVO-ISF related r
 Mailing list
 ------
 
-Our mailing list is a public Google Groups mailing list accessible  at:  https://groups.google.com/forum/#!forum/vivo-isf
+Our mailing list is a public Google Groups mailing list accessible  at: https://groups.google.com/forum/#!forum/openrif
