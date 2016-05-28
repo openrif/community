@@ -1,8 +1,6 @@
 VIVO-ISF Data Standard
 ------
 
-[![Join the chat at https://gitter.im/openrif/community](https://badges.gitter.im/openrif/community.svg)](https://gitter.im/openrif/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
-
 This repository is an organization-wide wiki, issue tracker, and later a VIVO-ISF website as Github Pages. Github does not provide such functionality and this repository is an attempt to workaround this limitation.
 
 Issue tracker
@@ -18,4 +16,9 @@ Please feel free to contribute to the wiki. There are various VIVO-ISF related r
 Mailing list
 ------
 
-Our mailing list is a public Google Groups mailing list accessible  at: https://groups.google.com/forum/#!forum/openrif
+Our mailing list is a public Google Groups mailing list accessible  at: https://groups.google.com/forum/#!forum/openrif-community
+
+Chat room
+----
+
+Click the badge to join our chat room on Gitter: [![Join the chat at https://gitter.im/openrif/community](https://badges.gitter.im/openrif/community.svg)](https://gitter.im/openrif/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
