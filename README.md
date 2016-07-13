@@ -3,6 +3,10 @@ VIVO-ISF Data Standard
 
 This repository is an organization-wide wiki, issue tracker, and later a VIVO-ISF website as Github Pages. Github does not provide such functionality and this repository is an attempt to workaround this limitation.
 
+Ontology Download
+------
+Found your way here via the Download Ontology menu at http://vivoweb.org?  You can get version 1.6 of vivo-isf-public at http://vivoweb.org/ontology/core#.  If you are looking for the full development versions of the VIVO-ISF Data Standard, it is in the src/ontology folder of the https://github.com/openrif/vivo-isf-ontology repo.
+
 Issue tracker
 ------
 
